@@ -1,0 +1,1 @@
+# fruit_360-image-verfication
